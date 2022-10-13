@@ -1,4 +1,3 @@
-"""Square a number."""
 from app.squarer import square
 
 
